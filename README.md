@@ -4,5 +4,5 @@ _Information Structures and Implications Project_ <br>
 by Sercan Kiyak and Martina Verna
 
 
-How is climate change discussed in the European debate?
+How is climate change discussed in the European debate? <br>
 We examined the European Parliament's data using SQL queries and we collected our insights in a *Jupyter Notebook*.
