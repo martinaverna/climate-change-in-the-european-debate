@@ -1,4 +1,5 @@
-# CLIMATE CHANGE IN THE EUROPEAN DEBATE (1999-2014)
+# CLIMATE CHANGE IN THE EUROPEAN DEBATE <br>
+(1999-2014)
 _Information Structures and Implications Project_ <br>
 by Sercan Kiyak and Martina Verna
 
